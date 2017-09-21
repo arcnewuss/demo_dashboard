@@ -25,7 +25,7 @@ library(quantmod)
 # google service:
 # geocoding-backend.googleapis.com 
 # Google Maps Geocoding API
-key <- 'AIzaSyAnX3iAdQAW5mJ-MS0-Uahp3oNx2xcDRCA'
+
 # vector of countries, each student counted only once                            
 
 # use package ggmap to get coordinates

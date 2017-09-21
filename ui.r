@@ -64,6 +64,8 @@ sidebar <- dashboardSidebar(
                 menuItem("Stocks", tabName="stock", icon = icon("line-chart")),
                 menuItem("Stocks", tabName="stock", icon = icon("line-chart")),
                 menuItem("Source Code", icon = icon("file-code-o"),
+                    href = "https://github.com/arcnewuss/demo_dashboard/blob/master/server.r"
+                )
                     
             )
         )
